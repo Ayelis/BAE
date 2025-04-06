@@ -18,6 +18,6 @@ BAE is an experimental AI system designed to explore structured reasoning throug
 ```bash
 git clone https://github.com/YOUR-USERNAME/bae.git
 python -m venv venv
-.\venv\Scripts\activate			# Or `source venv/bin/activate` on *nix
-pip install -r requirements.txt	# if you've added one
-py main.py						# Run your script
+.\venv\Scripts\activate         # Or `source venv/bin/activate` on *nix
+pip install -r requirements.txt # if you've added one
+py main.py                      # Run your script
